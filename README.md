@@ -25,6 +25,6 @@ The WASM implementation respects the time-complexity of BST which is nlogn at wo
 - BST Delete
 - BST Min
 - BST Max
-- BST Traversals
+
  
 
