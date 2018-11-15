@@ -1,0 +1,20 @@
+{
+  "name": "bst-wasm",
+  "version": "1.0.0",
+  "description": "A Binary Search Tree implemented in both JS and WASM to check speed gains",
+  "main": "benchmark.js",
+  "scripts": {
+	"benchmark": "node benchmark.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bst",
+    "binary",
+    "search",
+    "tree",
+    "web",
+    "assembly"
+  ],
+  "author": "Jaikanth J",
+  "license": "ISC"
+}
