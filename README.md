@@ -21,3 +21,10 @@ N  |100|1000|10000|100000
 The WASM implementation respects the time-complexity of BST which is nlogn at worst, contrary to that the JS Implementation grows exponentially.
 
 
+# TODO
+- BST Delete
+- BST Min
+- BST Max
+- BST Traversals
+ 
+
